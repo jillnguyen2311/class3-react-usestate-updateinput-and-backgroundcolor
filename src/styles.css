@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.box {
+  min-width: 20em;
+  max-width: 20em;
+  position: relative;
+}
+
+.box-button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
